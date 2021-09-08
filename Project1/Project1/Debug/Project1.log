@@ -1,0 +1,18 @@
+﻿  main.c
+c:\users\tsonmez.hvlnet\documents\visual studio 2017\projects\project1\project1\spline.h(30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tsonmez.hvlnet\documents\visual studio 2017\projects\project1\project1\spline.h(34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tsonmez.hvlnet\documents\visual studio 2017\projects\project1\project1\spline.h(35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tsonmez.hvlnet\documents\visual studio 2017\projects\project1\project1\spline.h(37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tsonmez.hvlnet\documents\visual studio 2017\projects\project1\project1\spline.h(43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tsonmez.hvlnet\documents\visual studio 2017\projects\project1\project1\spline.h(45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tsonmez.hvlnet\documents\visual studio 2017\projects\project1\project1\spline.h(87): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tsonmez.hvlnet\documents\visual studio 2017\projects\project1\project1\main.c(27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tsonmez.hvlnet\documents\visual studio 2017\projects\project1\project1\main.c(28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tsonmez.hvlnet\documents\visual studio 2017\projects\project1\project1\main.c(32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tsonmez.hvlnet\documents\visual studio 2017\projects\project1\project1\main.c(34): warning C4056: overflow in floating-point constant arithmetic
+c:\users\tsonmez.hvlnet\documents\visual studio 2017\projects\project1\project1\main.c(25): warning C4101: 'k': unreferenced local variable
+c:\users\tsonmez.hvlnet\documents\visual studio 2017\projects\project1\project1\main.c(25): warning C4101: 'j': unreferenced local variable
+c:\users\tsonmez.hvlnet\documents\visual studio 2017\projects\project1\project1\main.c(34): warning C4756: overflow in constant arithmetic
+c:\users\tsonmez.hvlnet\documents\visual studio 2017\projects\project1\project1\main.c(34): warning C4756: overflow in constant arithmetic
+  Project1.vcxproj -> C:\Users\tsonmez.HVLNET\documents\visual studio 2017\Projects\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\tsonmez.HVLNET\documents\visual studio 2017\Projects\Project1\Debug\Project1.pdb (Partial PDB)
